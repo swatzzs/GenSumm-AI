@@ -1,6 +1,3 @@
-Good choice — **GenSumm AI** is clean, modern, and clearly communicates *Generative Summarization*. Here’s a **polished README header + branding section** you can directly use:
-
----
 
 # 🤖 GenSumm AI – Intelligent Document Summarization
 
